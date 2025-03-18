@@ -15,8 +15,8 @@ Hi, I’m Mathavan, a MERN Full Stack Developer from India. I specialize in buil
 
 ## 📫 Contact Me
 - **GitHub:** [github.com/2kMaddy](#)
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
-- **Email:** your-email@example.com
+- **LinkedIn:** [linkedin.com/in/mathavan-somasundaram-435126311](#)
+- **Email:** mathavansiva16@gmail.com
 
 ---
 
